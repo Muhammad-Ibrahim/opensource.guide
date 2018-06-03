@@ -407,7 +407,7 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 
 > 😇 _"I'm not sure how to implement X. I checked the help docs and didn't find any mentions."_
 >
-> 😢 _"How do I X?"_
+> 😢 _"How do I did it?"_
 
 **Keep requests short and direct.** Much like sending an email, every contribution, no matter how simple or helpful, requires someone else's review. Many projects have more incoming requests than people available to help. Be concise. You will increase the chance that someone will be able to help you.
 
